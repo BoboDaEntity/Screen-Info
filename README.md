@@ -10,4 +10,4 @@ It goes in the top left.
 - People in Room/Code/Lobby -- **(In example image its 10)**
 - Current Gamemode of the Room/Code/Lobby -- **(In example image its CASUAL**
 
-![image](https://raw.githubusercontent.com/BoboDaEntity/Screen-Info/main/Screen-Info.png)
+![image](https://raw.githubusercontent.com/BoboDaEntity/Screen-Info/master/Screen-Info.png)
